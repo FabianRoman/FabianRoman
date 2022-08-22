@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi 👋 I´m Fabián Román
+- 🔭 I’m currently studying system engineering and everything i can learn 
 <!--
 **FabianRoman/FabianRoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
