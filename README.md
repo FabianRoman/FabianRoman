@@ -1,5 +1,6 @@
-### Hi 👋 I´m Fabián Román
+## Hi 👋 I´m Fabián Román
 - 🔭 I’m currently studying system engineering and everything i can learn 
+- 📈I am a data analyst graduated from Correlation One, [my diploma](https://www.credential.net/1a8e0999-68ed-4d49-80df-ce7b55c09852#gs.mg5vju)
 <!--
 **FabianRoman/FabianRoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
