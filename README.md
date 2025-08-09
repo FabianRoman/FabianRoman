@@ -50,13 +50,13 @@
   </tr>
   <tr>
     <td><a href="#">IntroGit</a></td>
-    <td>Basic web app with Java Spring Boot, HTML, CSS, JS</td>
-    <td>Java, HTML, CSS, JS</td>
+    <td>Basic repository made with HTML for learning git</td>
+    <td>HTML</td>
   </tr>
   <tr>
     <td><a href="#">RonEntreRios</a></td>
-    <td>JavaScript-based project for product management</td>
-    <td>JavaScript</td>
+    <td>Web project to analyze customer comments, criteria, and opinions about an artisanal rum product. Developed with JavaScript, HTML, and CSS, integrated with AppSheet and AppScript for data management.</td>
+    <td>JavaScript, HTML y CSS & AppScript</td>
   </tr>
   <tr>
     <td><a href="#">blog.github.io</a></td>
