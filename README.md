@@ -1,17 +1,39 @@
-## Hi I'm Fabián Román 👋
-- 🔭 _I'm currently studying system engineering and everything i can learn_ 
-- 📈 _I'm a data analyst with skills in Python and Excel graduated from Correlation One,_ [**_my diploma_**](https://www.credential.net/1a8e0999-68ed-4d49-80df-ce7b55c09852#gs.mg5vju)
-<!--
-**FabianRoman/FabianRoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Fabián Román
 
-Here are some ideas to get you started:
+🎓 **Systems Engineering Student** | 💻 **Aspiring Full-Stack Developer** | 📊 **Data Analyst**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 🛠️ Currently studying **Systems Engineering** and always eager to learn new technologies.
+- 📊 Skilled in **Python** and **Excel**, with a Data Analytics certification from **Correlation One**.  
+  📜 [View my diploma](#) <!-- Aquí pones el enlace real -->
+- 🌱 Interested in **Web Development**, **Java**, **Data Science**, and **Cloud Technologies**.
+
+---
+
+## 🧰 Tech Stack
+- **Languages:** Java, Python, JavaScript, HTML, CSS
+- **Frameworks & Tools:** Spring Boot, Git, MySQL
+- **Other Skills:** Data Analysis, Excel Automation, API Integration
+
+---
+
+## 📌 Featured Projects
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Conversor-De-Monedas**](#) | Currency converter app using Java | Java |
+| [**IntroGit**](#) | Basic web app with Java Spring Boot, HTML, CSS, JS | Java, HTML, CSS, JS |
+| [**RonEntreRios**](#) | JavaScript-based project for product management | JavaScript |
+| [**blog.github.io**](#) | Personal blog hosted on GitHub Pages | HTML |
+
+---
+
+## 📫 Contact Me
+- 💼 [LinkedIn](#)  
+- 📧 **fabian.roman@email.com**  
+- 🖥️ [Portfolio](#)
+
+---
+💡 _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
+
